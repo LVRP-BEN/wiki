@@ -13,6 +13,11 @@ const config: DocsThemeConfig = {
   footer: {
     text: 'LunaRP',
   },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – LunaRP'
+    }
+  }
 }
 
 export default config
