@@ -2,16 +2,16 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <span>LunaRP</span>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: 'https://github.com/luna-rp/wiki',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/JENCkRU6he',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/luna-rp/wiki',
   footer: {
-    text: 'Nextra Docs Template',
+    text: 'LunaRP',
   },
 }
 
