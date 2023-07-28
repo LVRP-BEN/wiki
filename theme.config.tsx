@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/JENCkRU6he',
   },
-  docsRepositoryBase: 'https://github.com/luna-rp/wiki',
+  docsRepositoryBase: 'https://github.com/luna-rp/wiki/tree/main/',
   footer: {
     text: 'LunaRP',
   },
